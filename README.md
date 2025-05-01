@@ -46,11 +46,10 @@ My final degree project is a full deployment of a segmented Zero Trust network a
 
 ### 📫 Contact & Socials
 
-- 📧 Email: javierdelap [at] example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/javierdelap)
-- 🌐 Personal blog (optional): https://javierdelap.dev
-- 🧠 Open to internships and remote opportunities in Security, DevSecOps, and Infrastructure
+- 📧 Email: javierdelapedrajadiaz@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/javierdelapedraja/)
+- 🧠 Open to internships and remote opportunities in Security, Networking, and Infrastructure
 
 ---
 
-Thanks for visiting! 🚀 Let's secure the cloud together.
+Thanks for visiting! 🚀 Let's secure the world together.
