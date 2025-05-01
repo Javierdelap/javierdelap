@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">Telecom engineer focused on Cloud Security and Zero Trust Architecture</h3>
+<h3 align="center">Telecom engineer focused on Networks, Cloud Security and Zero Trust Architecture</h3>
 
 ---
 
