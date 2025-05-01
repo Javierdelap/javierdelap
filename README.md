@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I'm a final-year Telecommunications Engineering student (specializing in Telematics), passionate about **cybersecurity**, **network infrastructure**, and **cloud-native defense** strategies.
+🎓 I'm a final-year Telecommunications Engineering student (specializing in Telematics), passionate about **cybersecurity**, **networking**, **networks infrastructure**, and **cloud-native defense** strategies.
 
 My TFG is based on building and evaluating a **Zero Trust Architecture (ZTA)** using open-source technologies, simulated on GNS3 with Docker-based services and attack simulation.
 
